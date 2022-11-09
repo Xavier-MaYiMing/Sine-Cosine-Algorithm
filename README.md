@@ -11,8 +11,8 @@
 | pos        | The position of all candidates (list)                 |
 | score      | The score of all candidates (list)                    |
 | dim        | Dimension                                             |
-| gbest      | The position of the global best candidate             |
-| gbest_pos  | The score of the global best candidate (list)         |
+| gbest      | The score of the global best candidate             |
+| gbest_pos  | The position of the global best candidate (list)         |
 | seed_pos   | The position of the seeds of the ith candidate (list) |
 | seed_score | The score of the seeds of the ith candidate (list)    |
 | iter_best  | The global best score of each iteration (list)        |
